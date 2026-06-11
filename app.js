@@ -9,7 +9,7 @@ const FORM_ID = '1FAIpQLSd0sS2JetZgIrzZ9I0KXKyi1CaRWw_Lh08i0waNZVo46xD_DA';
 const ENTRY_ID = 'entry.2024224021';
 
 // Cierre de apuestas: 11 de junio de 2026, 19:00 hora peninsular española (CEST = UTC+2 → 17:00 UTC).
-const DEADLINE = new Date('2026-06-11T17:00:00Z');
+const DEADLINE = new Date('2026-06-11T19:00:00Z');
 const KICKOFF = new Date('2026-06-11T19:00:00Z'); // 21:00 hora peninsular (CEST)
 
 function isSubmissionClosed() {
