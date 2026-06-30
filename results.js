@@ -1,7 +1,7 @@
 /* ============================================================
    Resultados oficiales del Mundial 2026.
    Generado automáticamente por update-results.js
-   Última actualización: 2026-06-29T22:11:25.278Z
+   Última actualización: 2026-06-30T00:08:12.591Z
    ============================================================ */
 
 const RESULTS = {
@@ -121,6 +121,12 @@ const RESULTS = {
           "home": "Brasil",
           "away": "Japón",
           "winner": "Brasil"
+        },
+        {
+          "match": 537415,
+          "home": "Alemania",
+          "away": "Paraguay",
+          "winner": ""
         }
       ],
       "round16": [],
