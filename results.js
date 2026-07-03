@@ -1,7 +1,7 @@
 /* ============================================================
    Resultados oficiales del Mundial 2026.
    Generado automáticamente por update-results.js
-   Última actualización: 2026-07-03T19:28:24.144Z
+   Última actualización: 2026-07-03T21:11:06.425Z
    ============================================================ */
 
 const RESULTS = {
@@ -198,6 +198,12 @@ const RESULTS = {
           "home": "Suiza",
           "away": "Argelia",
           "winner": "Suiza"
+        },
+        {
+          "match": 537428,
+          "home": "Australia",
+          "away": "Egipto",
+          "winner": ""
         }
       ],
       "round16": [],
