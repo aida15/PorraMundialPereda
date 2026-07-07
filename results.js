@@ -1,7 +1,7 @@
 /* ============================================================
    Resultados oficiales del Mundial 2026.
    Generado automáticamente por update-results.js
-   Última actualización: 2026-07-07T20:00:33.349Z
+   Última actualización: 2026-07-07T22:12:42.825Z
    ============================================================ */
 
 const RESULTS = {
@@ -271,6 +271,12 @@ const RESULTS = {
           "home": "Argentina",
           "away": "Egipto",
           "winner": "Argentina"
+        },
+        {
+          "match": 537382,
+          "home": "Suiza",
+          "away": "Colombia",
+          "winner": ""
         }
       ],
       "quarterfinals": [],
