@@ -1,7 +1,7 @@
 /* ============================================================
    Resultados oficiales del Mundial 2026.
    Generado automáticamente por update-results.js
-   Última actualización: 2026-07-20T04:37:40.691Z
+   Última actualización: 2026-07-20T04:23:46.941Z
    ============================================================ */
 
 const RESULTS = {
@@ -142,208 +142,382 @@ const RESULTS = {
     "thirdPlaceWinner": "Inglaterra",
     "final": "España",
     "thirdPlace": "Inglaterra",
+    "participants": {
+      "round32": [
+        {
+          "match": 73,
+          "team1": "Sudáfrica",
+          "team2": "Canadá"
+        },
+        {
+          "match": 74,
+          "team1": "Brasil",
+          "team2": "Japón"
+        },
+        {
+          "match": 75,
+          "team1": "Alemania",
+          "team2": "Paraguay"
+        },
+        {
+          "match": 76,
+          "team1": "Países Bajos",
+          "team2": "Marruecos"
+        },
+        {
+          "match": 77,
+          "team1": "Costa de Marfil",
+          "team2": "Noruega"
+        },
+        {
+          "match": 78,
+          "team1": "Francia",
+          "team2": "Suecia"
+        },
+        {
+          "match": 79,
+          "team1": "México",
+          "team2": "Ecuador"
+        },
+        {
+          "match": 80,
+          "team1": "Inglaterra",
+          "team2": "RD del Congo"
+        },
+        {
+          "match": 81,
+          "team1": "Bélgica",
+          "team2": "Senegal"
+        },
+        {
+          "match": 82,
+          "team1": "Estados Unidos",
+          "team2": "Bosnia y Herzegovina"
+        },
+        {
+          "match": 83,
+          "team1": "España",
+          "team2": "Austria"
+        },
+        {
+          "match": 84,
+          "team1": "Portugal",
+          "team2": "Croacia"
+        },
+        {
+          "match": 85,
+          "team1": "Suiza",
+          "team2": "Argelia"
+        },
+        {
+          "match": 86,
+          "team1": "Australia",
+          "team2": "Egipto"
+        },
+        {
+          "match": 87,
+          "team1": "Argentina",
+          "team2": "Cabo Verde"
+        },
+        {
+          "match": 88,
+          "team1": "Colombia",
+          "team2": "Ghana"
+        }
+      ],
+      "round16": [
+        {
+          "match": 89,
+          "team1": "Canadá",
+          "team2": "Marruecos"
+        },
+        {
+          "match": 90,
+          "team1": "Paraguay",
+          "team2": "Francia"
+        },
+        {
+          "match": 91,
+          "team1": "Brasil",
+          "team2": "Noruega"
+        },
+        {
+          "match": 92,
+          "team1": "México",
+          "team2": "Inglaterra"
+        },
+        {
+          "match": 93,
+          "team1": "Portugal",
+          "team2": "España"
+        },
+        {
+          "match": 94,
+          "team1": "Estados Unidos",
+          "team2": "Bélgica"
+        },
+        {
+          "match": 95,
+          "team1": "Argentina",
+          "team2": "Egipto"
+        },
+        {
+          "match": 96,
+          "team1": "Suiza",
+          "team2": "Colombia"
+        }
+      ],
+      "quarterfinals": [
+        {
+          "match": 97,
+          "team1": "Francia",
+          "team2": "Marruecos"
+        },
+        {
+          "match": 98,
+          "team1": "España",
+          "team2": "Bélgica"
+        },
+        {
+          "match": 99,
+          "team1": "Noruega",
+          "team2": "Inglaterra"
+        },
+        {
+          "match": 100,
+          "team1": "Argentina",
+          "team2": "Suiza"
+        }
+      ],
+      "semifinals": [
+        {
+          "match": 101,
+          "team1": "Francia",
+          "team2": "España"
+        },
+        {
+          "match": 102,
+          "team1": "Inglaterra",
+          "team2": "Argentina"
+        }
+      ],
+      "thirdPlace": [
+        {
+          "match": 103,
+          "team1": "Francia",
+          "team2": "Inglaterra"
+        }
+      ],
+      "final": [
+        {
+          "match": 104,
+          "team1": "España",
+          "team2": "Argentina"
+        }
+      ]
+    },
     "matches": {
       "round32": [
         {
-          "match": 537417,
-          "home": "Sudáfrica",
-          "away": "Canadá",
+          "match": 73,
+          "team1": "Sudáfrica",
+          "team2": "Canadá",
           "winner": "Canadá"
         },
         {
-          "match": 537423,
-          "home": "Brasil",
-          "away": "Japón",
+          "match": 74,
+          "team1": "Brasil",
+          "team2": "Japón",
           "winner": "Brasil"
         },
         {
-          "match": 537415,
-          "home": "Alemania",
-          "away": "Paraguay",
+          "match": 75,
+          "team1": "Alemania",
+          "team2": "Paraguay",
           "winner": "Paraguay"
         },
         {
-          "match": 537418,
-          "home": "Países Bajos",
-          "away": "Marruecos",
+          "match": 76,
+          "team1": "Países Bajos",
+          "team2": "Marruecos",
           "winner": "Marruecos"
         },
         {
-          "match": 537424,
-          "home": "Costa de Marfil",
-          "away": "Noruega",
+          "match": 77,
+          "team1": "Costa de Marfil",
+          "team2": "Noruega",
           "winner": "Noruega"
         },
         {
-          "match": 537416,
-          "home": "Francia",
-          "away": "Suecia",
+          "match": 78,
+          "team1": "Francia",
+          "team2": "Suecia",
           "winner": "Francia"
         },
         {
-          "match": 537425,
-          "home": "México",
-          "away": "Ecuador",
+          "match": 79,
+          "team1": "México",
+          "team2": "Ecuador",
           "winner": "México"
         },
         {
-          "match": 537426,
-          "home": "Inglaterra",
-          "away": "RD del Congo",
+          "match": 80,
+          "team1": "Inglaterra",
+          "team2": "RD del Congo",
           "winner": "Inglaterra"
         },
         {
-          "match": 537422,
-          "home": "Bélgica",
-          "away": "Senegal",
+          "match": 81,
+          "team1": "Bélgica",
+          "team2": "Senegal",
           "winner": "Bélgica"
         },
         {
-          "match": 537421,
-          "home": "Estados Unidos",
-          "away": "Bosnia y Herzegovina",
+          "match": 82,
+          "team1": "Estados Unidos",
+          "team2": "Bosnia y Herzegovina",
           "winner": "Estados Unidos"
         },
         {
-          "match": 537420,
-          "home": "España",
-          "away": "Austria",
+          "match": 83,
+          "team1": "España",
+          "team2": "Austria",
           "winner": "España"
         },
         {
-          "match": 537419,
-          "home": "Portugal",
-          "away": "Croacia",
+          "match": 84,
+          "team1": "Portugal",
+          "team2": "Croacia",
           "winner": "Portugal"
         },
         {
-          "match": 537429,
-          "home": "Suiza",
-          "away": "Argelia",
+          "match": 85,
+          "team1": "Suiza",
+          "team2": "Argelia",
           "winner": "Suiza"
         },
         {
-          "match": 537428,
-          "home": "Australia",
-          "away": "Egipto",
+          "match": 86,
+          "team1": "Australia",
+          "team2": "Egipto",
           "winner": "Egipto"
         },
         {
-          "match": 537427,
-          "home": "Argentina",
-          "away": "Cabo Verde",
+          "match": 87,
+          "team1": "Argentina",
+          "team2": "Cabo Verde",
           "winner": "Argentina"
         },
         {
-          "match": 537430,
-          "home": "Colombia",
-          "away": "Ghana",
+          "match": 88,
+          "team1": "Colombia",
+          "team2": "Ghana",
           "winner": "Colombia"
         }
       ],
       "round16": [
         {
-          "match": 537376,
-          "home": "Canadá",
-          "away": "Marruecos",
+          "match": 89,
+          "team1": "Canadá",
+          "team2": "Marruecos",
           "winner": "Marruecos"
         },
         {
-          "match": 537375,
-          "home": "Paraguay",
-          "away": "Francia",
+          "match": 90,
+          "team1": "Paraguay",
+          "team2": "Francia",
           "winner": "Francia"
         },
         {
-          "match": 537377,
-          "home": "Brasil",
-          "away": "Noruega",
+          "match": 91,
+          "team1": "Brasil",
+          "team2": "Noruega",
           "winner": "Noruega"
         },
         {
-          "match": 537378,
-          "home": "México",
-          "away": "Inglaterra",
+          "match": 92,
+          "team1": "México",
+          "team2": "Inglaterra",
           "winner": "Inglaterra"
         },
         {
-          "match": 537379,
-          "home": "Portugal",
-          "away": "España",
+          "match": 93,
+          "team1": "Portugal",
+          "team2": "España",
           "winner": "España"
         },
         {
-          "match": 537380,
-          "home": "Estados Unidos",
-          "away": "Bélgica",
+          "match": 94,
+          "team1": "Estados Unidos",
+          "team2": "Bélgica",
           "winner": "Bélgica"
         },
         {
-          "match": 537381,
-          "home": "Argentina",
-          "away": "Egipto",
+          "match": 95,
+          "team1": "Argentina",
+          "team2": "Egipto",
           "winner": "Argentina"
         },
         {
-          "match": 537382,
-          "home": "Suiza",
-          "away": "Colombia",
+          "match": 96,
+          "team1": "Suiza",
+          "team2": "Colombia",
           "winner": "Suiza"
         }
       ],
       "quarterfinals": [
         {
-          "match": 537383,
-          "home": "Francia",
-          "away": "Marruecos",
+          "match": 97,
+          "team1": "Francia",
+          "team2": "Marruecos",
           "winner": "Francia"
         },
         {
-          "match": 537384,
-          "home": "España",
-          "away": "Bélgica",
+          "match": 98,
+          "team1": "España",
+          "team2": "Bélgica",
           "winner": "España"
         },
         {
-          "match": 537385,
-          "home": "Noruega",
-          "away": "Inglaterra",
+          "match": 99,
+          "team1": "Noruega",
+          "team2": "Inglaterra",
           "winner": "Inglaterra"
         },
         {
-          "match": 537386,
-          "home": "Argentina",
-          "away": "Suiza",
+          "match": 100,
+          "team1": "Argentina",
+          "team2": "Suiza",
           "winner": "Argentina"
         }
       ],
       "semifinals": [
         {
-          "match": 537387,
-          "home": "Francia",
-          "away": "España",
+          "match": 101,
+          "team1": "Francia",
+          "team2": "España",
           "winner": "España"
         },
         {
-          "match": 537388,
-          "home": "Inglaterra",
-          "away": "Argentina",
+          "match": 102,
+          "team1": "Inglaterra",
+          "team2": "Argentina",
           "winner": "Argentina"
         }
       ],
       "thirdPlace": [
         {
-          "match": 537389,
-          "home": "Francia",
-          "away": "Inglaterra",
+          "match": 103,
+          "team1": "Francia",
+          "team2": "Inglaterra",
           "winner": "Inglaterra"
         }
       ],
       "final": [
         {
-          "match": 537390,
-          "home": "España",
-          "away": "Argentina",
+          "match": 104,
+          "team1": "España",
+          "team2": "Argentina",
           "winner": "España"
         }
       ]
@@ -363,10 +537,10 @@ const RESULTS = {
   "runnerUp": "Argentina",
   "thirdPlaceWinner": "Inglaterra",
   "awards": {
-    "topScorer": "",
-    "topAssister": "",
-    "goldenGlove": "",
-    "topScoringTeam": "",
-    "mostConcededTeam": ""
+    "topScorer": "Kylian Mbappé",
+    "topAssister": "Michael Olise",
+    "goldenGlove": "Unai Simón",
+    "topScoringTeam": "Francia",
+    "mostConcededTeam": "Irak"
   }
 };
